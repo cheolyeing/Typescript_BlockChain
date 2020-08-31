@@ -7,7 +7,12 @@
   "repository": "https://github.com/cheolyeing/Typescript_BlockChain.git",
   "description": "Learning Typescript by making a Blockchain with it",
   "scripts": {
-    "start": "node index.js",
-    "prestart": "tsc"
+    "start": "tsc-watch --onSuccess \"node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  },
+  "dependencies": {
+    "typescript": "^4.0.2"
   }
 }
