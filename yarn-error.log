@@ -31,8 +31,9 @@ npm manifest:
     "name": "Typechain",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "cheolyeing <rkdalstjd9@naver.com>",
-    "license": "MIT"
+    "author": "n",
+    "license": "MIT",
+    "repository": "https://github.com/cheolyeing/Typescript_BlockChain.git"
   }
 
 yarn manifest: 
