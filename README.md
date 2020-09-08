@@ -23,3 +23,11 @@ Learning Typescript by making a Blockchain with it
 
 - Features of Typscirpt(define variable/function Type)
 - Install and Setting new Comppiler(tsc-watch)
+
+### Lecture 06.
+
+- What is Interface in Typescript
+
+### Lecture 07.
+
+- What is Class in Typescript
